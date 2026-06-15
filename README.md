@@ -56,7 +56,7 @@ This project also includes a **Power BI dashboard** for better visualization and
 - Key insights for fraud detection
 
 📸 Screenshot:
-![Power BI Dashboard](powerbi/dashboard.png)
+![Power BI Dashboard](powerbi/powerbidashboard.png)
 
 ---
 
