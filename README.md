@@ -45,11 +45,27 @@ The dataset file (creditcard.csv) is not uploaded because of large size. It can 
 
 ---
 
+## 📊 Power BI Dashboard
+This project also includes a **Power BI dashboard** for better visualization and business insights.
+
+### Features shown in Power BI:
+- Fraud vs Legitimate transaction distribution
+- Transaction amount analysis
+- Time-based transaction patterns
+- Model performance comparison
+- Key insights for fraud detection
+
+📸 Screenshot:
+![Power BI Dashboard](powerbi/dashboard.png)
+
+---
+
 ## ⚙️ Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
+- Power BI
 - Streamlit
 - Git & GitHub
 
@@ -61,8 +77,9 @@ The dataset file (creditcard.csv) is not uploaded because of large size. It can 
 3. Exploratory Data Analysis (EDA)
 4. Model Training
 5. Model Evaluation
-6. Streamlit Web App Development
-7. Deployment using GitHub + Streamlit Cloud
+6. Power BI Dashboard Creation
+7. Streamlit Web App Development
+8. Deployment using GitHub + Streamlit Cloud
 
 ---
 
@@ -88,13 +105,16 @@ streamlit run app.py
 📊 Model Results  
 ![Results](screenshots/modelperformance.png)
 
+📊 Power BI Dashboard  
+![Power BI](screenshots/powerbi.png)
+
 ---
 
 ## 📈 Results
 - High performance in detecting legitimate transactions
 - Improved recall for fraud detection using SMOTE
 - Random Forest performed best among all models
-- Performed some advanced model like XGBoost
+- Power BI dashboard provides business-level insights
 
 ---
 
